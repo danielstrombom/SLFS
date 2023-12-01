@@ -1,7 +1,7 @@
 # SLFS
 Code for review of Strömbom et al. Modeling ... . Submitted to PLoSONE
 
-RUN NEW SIMULATIONS
+HOW TO RUN NEW SIMULATIONS
 
 Download all files from the Simulations folder.
 
@@ -14,4 +14,4 @@ You can also recreate Figure 5 by running the mkFig5.m file.
 We have run all code on MATLAB 2016b and 2021a without any problems.
 
 
-CODE FOR THE STATISTICAL ANALYSIS 
+VERIFYING THE STATISTICAL ANALYSES 
