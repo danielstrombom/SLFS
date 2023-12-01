@@ -1,9 +1,10 @@
 # SLFS
 This repository contains all R and MATLAB code required to verify all results in Strömbom et al. Modeling hum... . Submitted. In particular, it contains the code and materials needed to
-1. Recreate all the maps presented in the paper (Figures 1,2,3) from the data used in the paper.
-2. Re-perform the complete statistical analyses used to support the results in the paper and Table 1 and Figure 4.
-3. Verify the modeling results presented in the paper, and modify and extend the model.
-and below we explain how to do this.
+
+- Recreate all the maps presented in the paper (Figures 1,2,3) from the data used in the paper.
+- Re-perform the complete statistical analyses used to support the results in the paper and Table 1 and Figure 4.
+- Verify the modeling results presented in the paper, and modify and extend the model. You can also use this to regenerate Figure 5.
+
 
 1. TO RECREATE ALL THE MAPS IN THE PAPER
 
